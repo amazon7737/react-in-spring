@@ -1,4 +1,4 @@
-### 수업리뷰사이트!
+### 스프링 + 리액트
 
 
 
@@ -42,6 +42,10 @@ java -jar demo-0.0.1-SNAPSHOT.jar
 <br>
 
 src/main/frontend
+
+## 리액트 수정 후 빌드
+
+npm run build
 
 ## 스프링
 <br>
